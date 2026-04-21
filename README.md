@@ -23,4 +23,4 @@ To run this project on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL_HERE>
+   git clone (https://github.com/hessin-saleh/little-lemon-booking.git)
